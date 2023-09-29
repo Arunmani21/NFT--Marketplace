@@ -14,14 +14,8 @@ git clone https://github.com//Marketplace
 cd NFT-Marketplace
 npm install
 npm start
-
-```
-
 polygonscan verification link
-```
 
+```
 https://mumbai.polygonscan.com/address/0x507839923Bf46fbdb7e4803083232ce326C1b101#code
-
-```
-
 ```
