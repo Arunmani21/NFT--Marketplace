@@ -1,4 +1,4 @@
-import logo from '../logo_3.png';
+
 import {
   BrowserRouter as Router,
   Switch,
